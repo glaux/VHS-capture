@@ -6,9 +6,9 @@ AVS video recorder: Use downloaded installer
 Settings: 
 
 Video Composite
-PAL-B
-Native: YUY2 25fps
+PAL-B - https://en.wikipedia.org/wiki/PAL#PAL-B/G/D/K/I
+Native: YUY2; 720x576; 25fps
 
 SCART-port: bottom slot, set to output.
 
-Works after restart.
+Works after restart post driver installation.
